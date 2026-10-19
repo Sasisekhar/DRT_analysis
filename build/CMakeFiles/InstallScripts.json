@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/sg/RA/Schedulability_Analysis/DRT_analysis/build/cmake_install.cmake"
+		"/home/sg/Research/Schedulability_Analysis/DRT_analysis/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

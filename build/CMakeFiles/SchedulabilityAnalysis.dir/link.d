@@ -1,4 +1,4 @@
-/home/sg/RA/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis: \
+/home/sg/Research/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis: \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/crt1.o \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/crti.o \
   /usr/lib/gcc/x86_64-redhat-linux/16/crtbegin.o \

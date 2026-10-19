@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/home/sg/RA/Schedulability_Analysis/DRT_analysis/build",
-  "command": "/usr/lib64/ccache/c++   -std=gnu++20 -o CMakeFiles/SchedulabilityAnalysis.dir/main.cpp.o -c /home/sg/RA/Schedulability_Analysis/DRT_analysis/main.cpp",
-  "file": "/home/sg/RA/Schedulability_Analysis/DRT_analysis/main.cpp",
+  "directory": "/home/sg/Research/Schedulability_Analysis/DRT_analysis/build",
+  "command": "/usr/lib64/ccache/c++   -std=gnu++20 -o CMakeFiles/SchedulabilityAnalysis.dir/main.cpp.o -c /home/sg/Research/Schedulability_Analysis/DRT_analysis/main.cpp",
+  "file": "/home/sg/Research/Schedulability_Analysis/DRT_analysis/main.cpp",
   "output": "CMakeFiles/SchedulabilityAnalysis.dir/main.cpp.o"
 }
 ]

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/sg/RA/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis"
-  "/home/sg/RA/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis.pdb"
+  "/home/sg/Research/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis"
+  "/home/sg/Research/Schedulability_Analysis/DRT_analysis/bin/SchedulabilityAnalysis.pdb"
   "CMakeFiles/SchedulabilityAnalysis.dir/link.d"
   "CMakeFiles/SchedulabilityAnalysis.dir/main.cpp.o"
   "CMakeFiles/SchedulabilityAnalysis.dir/main.cpp.o.d"

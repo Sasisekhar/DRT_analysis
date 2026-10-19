@@ -1,3 +1,3 @@
-/home/sg/RA/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/SchedulabilityAnalysis.dir
-/home/sg/RA/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/edit_cache.dir
-/home/sg/RA/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/rebuild_cache.dir
+/home/sg/Research/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/SchedulabilityAnalysis.dir
+/home/sg/Research/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/edit_cache.dir
+/home/sg/Research/Schedulability_Analysis/DRT_analysis/build/CMakeFiles/rebuild_cache.dir
