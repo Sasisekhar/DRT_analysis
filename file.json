@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "name": "Figure 2",
+      "frame_separated": true,
+      "utilization": {"e": 1, "p": 6},
+      "vertices": [
+        {"id": "v1", "e": 2, "d": 5},
+        {"id": "v2", "e": 1, "d": 8},
+        {"id": "v3", "e": 3, "d": 8},
+        {"id": "v4", "e": 5, "d": 10},
+        {"id": "v5", "e": 1, "d": 5}
+      ],
+      "edges": [
+        {"from": 0, "to": 1, "p": 10},
+        {"from": 0, "to": 4, "p": 20},
+        {"from": 1, "to": 2, "p": 15},
+        {"from": 1, "to": 3, "p": 20},
+        {"from": 2, "to": 0, "p": 11},
+        {"from": 3, "to": 1, "p": 20},
+        {"from": 4, "to": 3, "p": 10}
+      ],
+      "dbf": {"horizon": 60, "steps": [[5, 2], [8, 3], [10, 5], [20, 6], [38, 7], [40, 8], [43, 9], [50, 11], [60, 12]]}
+    },
+    {
+      "name": "Figure 8",
+      "frame_separated": false,
+      "utilization": {"e": 8, "p": 1011},
+      "vertices": [
+        {"id": "v1", "e": 5, "d": 7},
+        {"id": "v2", "e": 1, "d": 10},
+        {"id": "v3", "e": 2, "d": 5}
+      ],
+      "edges": [
+        {"from": 0, "to": 1, "p": 8},
+        {"from": 1, "to": 2, "p": 3},
+        {"from": 2, "to": 0, "p": 1000}
+      ],
+      "dbf": {"horizon": 60, "steps": [[5, 2], [7, 5], [16, 7], [18, 8]]}
+    }
+  ],
+  "feasibility": {
+    "status": "FEASIBLE",
+    "utilization": 0.17458,
+    "bound": 24,
+    "witness": null,
+    "reason": "dbf(t) <= t for all t <= bound (Proposition III.4, Lemma V.3)"
+  }
+}
